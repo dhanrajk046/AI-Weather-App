@@ -1,5 +1,10 @@
 <img width="1366" height="767" alt="image" src="https://github.com/user-attachments/assets/a7d24bf5-e053-443e-accc-83b4a8b6193a" /># 🌦️ Weather Intelligence Platform
 
+# 🌦️ Weather Intelligence Platform
+
+### AI Weather Intelligence Platform
+**React • Vite • Zustand • TanStack Query • OpenWeather API • WeatherAPI • Vercel**
+
 A modern AI-powered weather analytics dashboard built with **React**, **Vite**, **Zustand**, **TanStack Query**, **Tailwind CSS**, and real-time weather APIs.
 
 The platform provides live weather monitoring, multi-day forecasts, and AI-generated weather intelligence insights through a clean and responsive user interface.
