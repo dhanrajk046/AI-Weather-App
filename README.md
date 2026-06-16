@@ -96,7 +96,27 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
+
+## 🏗️ Architecture
+
+User Search
+     ↓
+React UI
+     ↓
+TanStack Query
+     ↓
+Weather APIs
+     ↓
+Data Normalization
+     ↓
+Zustand Store
+     ↓
+AI Intelligence Engine
+     ↓
+Dashboard Rendering
 ```
+
+
 
 ---
 
@@ -105,7 +125,7 @@ src/
 Clone the repository:
 
 ```bash
-git clone https://github.com/dhanrajk046/Weather-App.git
+git clone https://github.com/dhanrajk046/AI-Weather-App.git
 ```
 
 Move into the project directory:
@@ -194,7 +214,7 @@ This project demonstrates:
 **Dhanraj Kumar**
 
 * GitHub: https://github.com/dhanrajk046
-* LinkedIn: [www.linkedin.com/in/dhanraj-kumar-8a7a5126b](http://www.linkedin.com/in/dhanraj-kumar-8a7a5126b)
+* LinkedIn: https://www.linkedin.com/in/dhanraj-kumar-8a7a5126b
 
 ---
 
