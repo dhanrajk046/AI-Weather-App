@@ -1,4 +1,4 @@
-# 🌦️ Weather Intelligence Platform
+<img width="1366" height="767" alt="image" src="https://github.com/user-attachments/assets/a7d24bf5-e053-443e-accc-83b4a8b6193a" /># 🌦️ Weather Intelligence Platform
 
 A modern AI-powered weather analytics dashboard built with **React**, **Vite**, **Zustand**, **TanStack Query**, **Tailwind CSS**, and real-time weather APIs.
 
@@ -14,7 +14,8 @@ The platform provides live weather monitoring, multi-day forecasts, and AI-gener
 
 ## 📸 Preview
 
-![Weather Intelligence Platform](./preview.png)
+<img width="1366" height="767" alt="image" src="https://github.com/user-attachments/assets/b7d55b84-d88c-408f-b13a-6063bc5f4568" />
+
 
 ---
 
